@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lazypipe": "git://github.com/hughsk/lazypipe#multipipe",
+    "lazypipe": "git://github.com/OverZealous/lazypipe",
     "gulp-plumber": "~0.5.6",
     "gulp": "~3.5.2",
     "gulp-debug": "~0.2.0",
